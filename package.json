@@ -1,0 +1,21 @@
+{
+  "name": "express-boilerplate",
+  "description": "",
+  "version": "0.0.1",
+  "private": true,
+  "author": "Oleksandr Kyetov",
+  "homepage": "https://github.com/oleksandrkyetov",
+  "contributors": [],
+  "bugs": {
+    "url": "https://github.com/oleksandrkyetov/express-boilerplate/issues"
+  },
+  "scripts": {
+    "start":
+    ""
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "keywords": [],
+  "repository": "https://github.com/oleksandrkyetov/express-boilerplate",
+  "licenses": []
+}
