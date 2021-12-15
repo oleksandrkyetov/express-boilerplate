@@ -10,11 +10,14 @@
     "url": "https://github.com/oleksandrkyetov/express-boilerplate/issues"
   },
   "scripts": {
-    "start":
-    ""
+    "start": "node src/index.js"
   },
-  "dependencies": {},
-  "devDependencies": {},
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "yarn-upgrade": "^1.0.0"
+  },
   "keywords": [],
   "repository": "https://github.com/oleksandrkyetov/express-boilerplate",
   "licenses": []
